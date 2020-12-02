@@ -1,0 +1,56 @@
+body {
+	background-color: #87CEEB;
+}
+
+.logo {
+	margin: 0 auto;
+	display:block;
+}
+
+
+nav ul{
+	list-style-type: none;
+    text-align: center;
+    background-color: #D3D3D3;
+    padding: 15px 0;
+    margin-top:0;
+    border-top: #022837 2px solid;
+    border-bottom: #022837 2px solid;
+
+}
+
+nav li{
+	display: inline;
+    margin: 5px 30px;
+}
+
+nav a{
+    text-decoration:none;
+}
+
+nav a:link{
+	color: #0C303E;
+}
+
+nav a:visited{
+	color: #0C303E;
+}
+
+nav a:hover{
+	color: white;
+    text-decoration:none;
+}
+
+nav a:active{
+	color: black;
+}
+
+h2{
+	text-align:center;
+}
+
+p{
+	font-size: 20px;
+	font-family: "Comic Sans MS", Cursive;
+}
+
